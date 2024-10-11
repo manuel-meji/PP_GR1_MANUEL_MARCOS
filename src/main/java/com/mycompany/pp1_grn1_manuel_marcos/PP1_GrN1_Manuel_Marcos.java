@@ -3,7 +3,7 @@ package com.mycompany.pp1_grn1_manuel_marcos;
 import java.awt.Menu;
 import javax.swing.JOptionPane;
 
-class Cliente {
+class Cliente {trtyrtrty
 
     String nombre;
     int servicio[] = new int[3]; //LLENAR
